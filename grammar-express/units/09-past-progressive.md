@@ -42,20 +42,17 @@
 
    --[---3:00---]-------------------
 
-   ###### Examples
+   #### Examples
 
    - What were you doing at 3:00?
-
    - We were skiing.
-
    - I was eating lunch at 3:00.
 
    **Be careful!** Non-action verbs are not usually used in the progressive.
 
-   ###### Examples
+   #### Examples
 
    - I had a headache last night.
-
    - **Not:** I was having a headache last night.
 
 2. Use the **past progressive** with **_while_** to talk about **two actions in progress at the same time in the past**. Use the past progressive in both clauses.
@@ -66,27 +63,26 @@
 
    ----was reading------------------
 
-   ######
+   ####
 
    - While he was skiing, I was reading.
-
    - I was reading while he was skiing.
 
    **Usage Note:** In informal conversation, some people use **when** with the past progressive.
 
-   ###### Examples
+   #### Examples
 
    - Sorry, I wasn't listening when you were talking.
 
 3. Use the **past progressive** to **focus on the duration of an action**, **not is completion**.
 
-   ###### Examples
+   #### Examples
 
    - Sheila was reading a book last night. ( We don't know if she finished the book.)
 
    Use the **simple past tense** to focus on the **completion** of an action.
 
-   ###### Examples
+   #### Examples
 
    - Sheila read a book last night. (She probably finished the book.)
 

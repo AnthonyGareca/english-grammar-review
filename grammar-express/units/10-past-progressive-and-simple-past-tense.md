@@ -36,18 +36,16 @@
 
    -[-was-crossing-]---------------
 
-   ###### Examples
+   #### Examples
 
    - I was crossing the street when the driver honked his horn.
-
    - They were driving too fast when they they crashed.
 
    Use **when** to introduce the simple past tense action or use **while** to introduce the past progressive action.
 
-   ###### Examples
+   #### Examples
 
    - He was speeding when the light turned red.
-
    - While he was speeding, the light turned red.
 
 2. **Be careful!** Notice the difference meaning between these two different sentences.
@@ -58,7 +56,7 @@
 
    ------crossed street------------
 
-   ###### Examples
+   #### Examples
 
    - When the light changed, I crossed the street. (First the light changed. Then I crossed the street.)
 
@@ -68,7 +66,7 @@
 
    ---[-was crossing-]---------------
 
-   ###### Examples
+   #### Examples
 
    - When the light changed, I was crossing the street. (First I was crossing the street. Then the light changed.)
 
@@ -80,26 +78,23 @@
 
    -[-was driving-]-----------------
 
-   ###### Examples
+   #### Examples
 
    - Lin was talking on the phone while he was driving.
-
    - They weren't paying attention while they were crossing the street.
 
 4. The **time clause** (the part of the sentence beginning with **when** or **while**) can come at **the beginning or the end** of the sentence. The meaning is the same.
 
-   ###### Examples
+   #### Examples
 
    - When you called, I was leaving.
-
    - I was leaving when you called.
 
    Use a **comma** after the time clause when it comes at the **beginning** of the sentence.
 
-   ###### Examples
+   #### Examples
 
    - While he was driving, he was talking.
-
    - He was talking while he was driving.
 
 [back](../README.md)

@@ -43,7 +43,6 @@ To say that something has _not_ happened before now, use **not** ... **yet**.
    #### Examples
 
    - Is your daughter going to get her flu shot?
-
    - She's already gotten it. (She has already gotten it.)
 
    **Be careful!** Do not use the present perfect with **already** when you mention a specific time in the past.

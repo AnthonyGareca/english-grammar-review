@@ -38,69 +38,65 @@ A verb used with a non-action meaning is not used in the progressive form.
 
    a. describe a **state of being**. (be, feel)
 
-   ###### Examples
+   #### Examples
 
-   Jane **is** tired but happy.
-
-   She **feels** good.
+   - Jane **is** tired but happy.
+   - She **feels** good.
 
    b. express **emotions** (hate, love, like)
 
-   ###### Examples
+   #### Examples
 
-   A: Do you **like** my new dress?
-   B: I **love** it.
+   - Do you **like** my new dress?
+   - I **love** it.
 
    c. describe **mental states** (know, remember, believe, think [=believe], suppose, understand)
 
-   ###### Examples
+   #### Examples
 
-   I **know** a lot of good recipes.
-   Ari **remembers** your number.
-   I **think** you're right.
+   - I **know** a lot of good recipes.
+   - Ari **remembers** your number.
+   - I **think** you're right.
 
    d. show **possession** (have, own, possess, belong)
 
-   ###### Examples
+   #### Examples
 
-   Cesar **has** a headache.
-
-   Some students **own** microwaves.
+   - Cesar **has** a headache.
+   - Some students **own** microwaves.
 
    e. describe **perceptions** and **senses** (hear, see, smell, taste, feel, notice, seem, look [=seem], appear, sound)
 
-   ###### Examples
+   #### Examples
 
-   I **hear** the telephone.
-
-   Dina seems tired.
+   - I **hear** the telephone.
+   - Dina **seems** tired.
 
    f. describe **needs** and **preferences** (need, want, prefer)
 
-   ###### Examples
+   #### Examples
 
-   I **need** a pen.
+   - I **need** a pen.
 
    g. describe **measurements** (weigh, cost, contain)
 
-   ###### Examples
+   #### Examples
 
-   How much **does** it **cost**?
+   - How much **does** it **cost**?
 
 3. **Be careful!** Some verbs can non-action and action meanings (taste, smell, feel, look, think, have, weigh).
 
-   Non-Action
+   ### Non-Action
 
-   ###### Examples
+   #### Examples
 
-   I **taste** garlic. Did you put some in there? (I notice garlic)
+   - I **taste** garlic. Did you put some in there? (I notice garlic)
+   - The soup **tastes** good. Try some. (The soup is good)
 
-   The soup **tastes** good. Try some. (The soup is good)
+   ### Action
 
-   Action
+   #### Examples
 
-   ###### Examples
-
-   I'**m tasting** the soup to see if it needs more salt. (I'm trying the soup)
+   - I'**m tasting** the soup to see if it needs more salt. (I'm trying the soup)
 
 [back](../README.md)

@@ -48,31 +48,31 @@ The present progressive is made up of two parts: **be** + base form of verb + **
 
 1. Use the present progressive to describe something that is happening right now.
 
--------I'm standing-------
+   -------I'm standing-------
 
-Past------Now-------Future
+   Past------Now-------Future
 
-###### Examples
+   #### Examples
 
-- I'm standing outsides the King Theater right now.
-- As I'm talking to you, the fans are gathering in front of the theater.
+   - I'm standing outsides the King Theater right now.
+   - As I'm talking to you, the fans are gathering in front of the theater.
 
 2. Use the present progressive to describe something that is happening these days, even if it's not happening right now.
 
--------I'm studying guitar-------
+   -------I'm studying guitar-------
 
-Past----------Now-----------Future
+   Past----------Now-----------Future
 
-###### Examples
+   #### Examples
 
-- The Guns n' Roses are playing at the King Theater this week.
-- I'm studying guitar this semester.
+   - The Guns n' Roses are playing at the King Theater this week.
+   - I'm studying guitar this semester.
 
 3. **Usage Note**: The contracted form is usually used in speech and in informal writing.
 
-###### Examples
+   #### Examples
 
-- Bye, Jana, we're leaving now.
-- Wait! I'm coming with you.
+   - Bye, Jana, we're leaving now.
+   - Wait! I'm coming with you.
 
 [back](../README.md)

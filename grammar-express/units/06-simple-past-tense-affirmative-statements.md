@@ -32,25 +32,22 @@
 
    --He was a poet.------------------
 
-   ###### Examples
+   #### Examples
 
    - Albert Rimes lived in the twentieth century.
-
    - He was a poet.
-
    - He wrote poetry.
 
 2. You can use the simple past tense with time expression that refer to the past (last week, by 1980, in twentieth century, fifty years ago).
 
-   ###### Examples
+   #### Examples
 
    - By 1930, he was famous.
-
    - He died more than ten years ago.
 
 3. The simple past tense of regular verbs is formed by adding **-d** or **-ed**.
 
-   ###### Examples
+   #### Examples
 
    | Base form |     | Simple past |
    | --------- | --- | ----------- |
@@ -60,7 +57,7 @@
 
    **Be careful!** There are often spelling changes when add **-ed** to the verbs.
 
-   ###### Examples
+   #### Examples
 
    | Base form |     | Simple past |
    | --------- | --- | ----------- |
@@ -69,7 +66,7 @@
 
    Many common verbs are **irregular**. Their past tense in not formed by adding **-d** or **-ed**.
 
-   ###### Examples
+   #### Examples
 
    | Base form |     | Simple past      |
    | --------- | --- | ---------------- |

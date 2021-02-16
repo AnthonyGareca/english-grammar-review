@@ -14,7 +14,6 @@
 #### Contractions
 
 - was + not = wasn't
-
 - were + not = weren't
 
 ### Regular and Irregular Verbs
@@ -77,22 +76,18 @@
 
    ---wasn't alone------------------
 
-   ###### Examples
+   #### Examples
 
    - She wasn't alone.
-
    - They weren't on an island.
-
    - They didn't find the plane.
-
    - He didn't call that night.
 
 2. Use the simple past tense to ask questions about actions or situations that are now finished.
 
-   ###### Examples
+   #### Examples
 
    - Was she alone in the plane?
-
    - Where did she leave from?
 
 [back](../README.md)

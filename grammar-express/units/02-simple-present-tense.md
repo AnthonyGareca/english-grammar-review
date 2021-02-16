@@ -45,47 +45,47 @@ Negative statements have **do not** or **does not** before the base form.
 
 1. Use the simple tense to talk about what regularly happens.
 
-------------rush-------------
+   ------------rush-------------
 
-Past--------Now---------Future
+   Past--------Now---------Future
 
-###### Example
+   ### Example
 
-- Some people rush through life.
-- They don't relax.
-- Other people are calm.
-- They don't feel tense.
+   - Some people rush through life.
+   - They don't relax.
+   - Other people are calm.
+   - They don't feel tense.
 
 2. Use adverbs of frequency with the simple present tense to express how often something happens.
 
-| How often | Adverb        |
-| --------- | ------------- |
-| 100%      | Always        |
-|           | Usually       |
-|           | Often         |
-|           | Sometimes     |
-|           | Rarely/Seldom |
-| 0%        | never         |
+   | How often | Adverb        |
+   | --------- | ------------- |
+   | 100%      | Always        |
+   |           | Usually       |
+   |           | Often         |
+   |           | Sometimes     |
+   |           | Rarely/Seldom |
+   | 0%        | never         |
 
-###### Examples
+   #### Examples
 
-- She never relaxes.
-- You usually take life easier.
-- We sometimes sleep late.
-- They seldom take a vacation.
+   - She never relaxes.
+   - You usually take life easier.
+   - We sometimes sleep late.
+   - They seldom take a vacation.
 
-**Be careful!** Adverbs of frequency **usually come before the main verb**, but they **go after the verb be**.
+   **Be careful!** Adverbs of frequency **usually come before the main verb**, but they **go after the verb be**.
 
-###### Examples
+   #### Examples
 
-- We usually rush around too much.
-- We're often stressed out.
+   - We usually rush around too much.
+   - We're often stressed out.
 
 3. Use the simple present tense to talk about scientific facts.
 
-###### Examples
+   #### Examples
 
-- Stress causes high blood pressure.
-- Water freezes at 32°F.
+   - Stress causes high blood pressure.
+   - Water freezes at 32°F.
 
 [back](../README.md)

@@ -40,17 +40,16 @@ The present perfect is made up of two parts: **have** + past participle
 
    ---[-has been------)------------
 
-   ###### Examples
+   #### Examples
 
    - Martina Hingis **has been** a professional tennis player **since** 1994.
-
    - She **has been** a professional tennis player **for** years.
 
    (She began her professional career years ago, and she is still a professional player.)
 
 2. Use the present perfect with **since** + **point in time** (since 5:00, since Monday, since 1994) **to show when something started**.
 
-   ###### Examples
+   #### Examples
 
    - She **has earned** millions of dollars **since** 1994.
 
@@ -58,21 +57,20 @@ The present perfect is made up of two parts: **have** + past participle
 
    When **the action in the time clause ended in the past**, use **simple past tense**.
 
-   ###### Examples
+   #### Examples
 
    - Martina **has loved** sports **since she was a child**.
-
    - She **has won** many tournaments **since** she **moved** from Slovakia. (She doesn't live there anymore.)
 
    When **the action in the clause began in the past but continues into the present**, use the **present perfect**.
 
-   ###### Examples
+   #### Examples
 
    - She **has become** extremely successful **since** she **has been** in Switzerland. (She still lives in Switzerland.)
 
 4. Use the present perfect with **for** + **length of time** (for ten minutes, for two weeks, for years, for a long time) to \*\*show how long a present condition has lasted.
 
-   ###### Examples
+   #### Examples
 
    - Martina's mother **has been** her coach **for many years**.
 
